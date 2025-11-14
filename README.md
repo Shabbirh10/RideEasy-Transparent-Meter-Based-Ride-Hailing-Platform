@@ -29,11 +29,11 @@ Frontend (Mobile App)
 
 Flutter
 
-Provider / Bloc (state management)
+Provider / Bloc 
 
-Google Maps API (if used)
+Google Maps API 
 
-Firebase Authentication (optional)
+Firebase Authentication
 
 Backend
 
@@ -43,11 +43,11 @@ Spring Web
 
 Spring Data JPA
 
-Spring Security (if applied)
+Spring Security 
 
 MySQL / PostgreSQL
 
-Kafka (if used for live location events)
+Kafka 
 
 Tools
 
@@ -55,7 +55,7 @@ Postman
 
 Git & GitHub
 
-Docker (optional)
+Docker
 
 🔥 Key Features
 ✔ User Authentication
